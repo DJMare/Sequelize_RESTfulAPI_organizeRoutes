@@ -23,9 +23,9 @@ COMMAND PROMPT
 
     express --view=hbs express_Sequelize_RESTfulAPI_
 
-(6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_deleteAvariable directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_ directory: 
 
-    cd express_Sequelize_RESTfulAPI_deleteAvariable
+    cd express_Sequelize_RESTfulAPI_
     
 (7) Now in the express_Sequelize_RESTfulAPI_deleteAvariable directory, run the following: 
 
