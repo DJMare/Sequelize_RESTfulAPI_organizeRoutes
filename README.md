@@ -54,7 +54,7 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and require mysql2 in routes/index.js file.: 
+(13) Navigate to the routes/index.js file and require mysql2 in routes/index.js file.: ![Require mysql2 in routes-index js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501644-a681e900-2839-11ea-8d37-0f9f7f0e800d.JPG)
 
 COMMAND PROMPT
 
@@ -80,7 +80,7 @@ VS CODE
 
 (21) In the routes/index.js file require the models.: 
 
-(22) In the routes/index.js file add delete() route for /actors/:id: 
+(22) In the routes/index.js file add delete() route for /actors/:id : 
 
 COMMAND PROMPT
 
