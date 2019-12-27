@@ -90,6 +90,7 @@ VS CODE
 
 (24) Specify actors router module in app.js file: ![Specify actors router module in app js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71535246-8fdba080-28d2-11ea-998a-2805d868f9ee.JPG)
 
+(25) Update paths in routes-actors.js file: ![Update paths in routes-actors js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71535276-b6014080-28d2-11ea-930e-6d08c4a83a18.JPG)
 
 COMMAND PROMPT
 
