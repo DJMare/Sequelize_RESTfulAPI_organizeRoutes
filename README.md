@@ -76,11 +76,11 @@ VS CODE
 
 (18) Open config/config.json file and change settings to connect to the database.: ![Update database connection info in config-config json file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501755-2445f480-283a-11ea-91f0-502bcf947b21.JPG)
 
-(19) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
+(19) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: ![Add models in app js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501770-450e4a00-283a-11ea-9c62-1e5cee7f0f50.JPG)
 
-(20) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: Add models sequelize sync in app js file: 
+(20) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: Add models sequelize sync in app js file: ![Add models sequelize sync in app js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501776-57888380-283a-11ea-8f11-db9a317adcba.JPG)
 
-(21) In the routes/index.js file require the models.: ![Add models in app js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501770-450e4a00-283a-11ea-9c62-1e5cee7f0f50.JPG)
+(21) In the routes/index.js file require the models.: 
 
 (22) In the routes/index.js file add delete() route for /actors/:id : 
 
