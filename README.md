@@ -80,9 +80,9 @@ VS CODE
 
 (20) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: Add models sequelize sync in app js file: ![Add models sequelize sync in app js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501776-57888380-283a-11ea-8f11-db9a317adcba.JPG)
 
-(21) In the routes/index.js file require the models.: 
+(21) In the routes/index.js file require the models.: ![Require models in routes-index js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501805-8868b880-283a-11ea-8905-3d110b4f0d7d.JPG)
 
-(22) In the routes/index.js file add delete() route for /actors/:id : 
+(22) In the routes/index.js file add routes : 
 
 COMMAND PROMPT
 
