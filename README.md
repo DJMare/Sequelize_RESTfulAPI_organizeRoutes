@@ -82,17 +82,18 @@ VS CODE
 
 (21) In the routes/index.js file require the models.: ![Require models in routes-index js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501805-8868b880-283a-11ea-8905-3d110b4f0d7d.JPG)
 
-(22) In the routes/index.js file add routes : 
+(22) In the routes folder create and actors.js file add actors routes : ![create routes-actors js file and add actor routes (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71535181-1774df80-28d2-11ea-9ed3-90402532847e.JPG)
+
 
 COMMAND PROMPT
 
-(23) Run nodemon in terminal to see DB sync'd up: 
+(2) Run nodemon in terminal to see DB sync'd up: 
 
     nodemon
 
 POSTMAN
 
-(24) Navigate to localhost3000/actors/[insert specific id #] in Postman and perform a DELETE request to add data. 
+(2) Navigate to localhost3000/actors/[insert specific id #] in Postman and perform a DELETE request to add data. 
 
 NODEMON NOTE
 
