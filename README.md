@@ -94,13 +94,13 @@ VS CODE
 
 COMMAND PROMPT
 
-(2) Run nodemon in terminal to see DB sync'd up: 
+(26) Run nodemon in terminal to see DB sync'd up: 
 
     nodemon
 
 POSTMAN
 
-(2) Navigate to localhost3000/actors/[insert specific id #] in Postman and perform a DELETE request to add data. 
+(27) Navigate to localhost3000/actors/[insert path] to view data. 
 
 NODEMON NOTE
 
