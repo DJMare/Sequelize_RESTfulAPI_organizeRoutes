@@ -72,7 +72,7 @@ VS CODE
 
 ![In models rel folder update associations js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501708-e8129400-2839-11ea-8b41-33e3911b40f6.JPG)
 
-(17) In the models/index.js file add associations constant and at the bottom of the models/index.js file add the call to associations function.:
+(17) In the models/index.js file add associations constant and at the bottom of the models/index.js file add the call to associations function.: ![Call associations function in models-index js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501738-0aa4ad00-283a-11ea-95b9-de32640fe037.JPG)
 
 (18) Open config/config.json file and change settings to connect to the database.: 
 
