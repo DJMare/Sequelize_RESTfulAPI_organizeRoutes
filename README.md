@@ -74,7 +74,7 @@ VS CODE
 
 (17) In the models/index.js file add associations constant and at the bottom of the models/index.js file add the call to associations function.: ![Call associations function in models-index js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501738-0aa4ad00-283a-11ea-95b9-de32640fe037.JPG)
 
-(18) Open config/config.json file and change settings to connect to the database.: 
+(18) Open config/config.json file and change settings to connect to the database.: ![Update database connection info in config-config json file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71501755-2445f480-283a-11ea-91f0-502bcf947b21.JPG)
 
 (19) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
 
