@@ -88,6 +88,7 @@ VS CODE
 
 (23) Add actors route in app.js file: ![Add actors route in app js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71535222-64f14c80-28d2-11ea-8859-2e6401a0e26c.JPG)
 
+(24) Specify actors router module in app.js file: ![Specify actors router module in app js file (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71535246-8fdba080-28d2-11ea-998a-2805d868f9ee.JPG)
 
 
 COMMAND PROMPT
