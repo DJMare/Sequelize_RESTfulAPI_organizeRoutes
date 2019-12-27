@@ -84,6 +84,8 @@ VS CODE
 
 (22) In the routes folder create and actors.js file add actors routes : ![create routes-actors js file and add actor routes (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71535181-1774df80-28d2-11ea-9ed3-90402532847e.JPG)
 
+![in routes-actors js file add actor routes (Sequelized_RESTfulAPI_organizeRoutes)](https://user-images.githubusercontent.com/35668707/71535194-2e1b3680-28d2-11ea-8f5c-d3e2f7b426cd.JPG)
+
 
 COMMAND PROMPT
 
